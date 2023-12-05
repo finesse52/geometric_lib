@@ -6,7 +6,7 @@ def area(a, b):
                 b (int) : Вторая сторона прямоугольника
         Возвращаемое значение:
                 a * b
-    '''
+    ''''
     return a * b
 
 def perimeter(a, b):
