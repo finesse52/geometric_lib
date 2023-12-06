@@ -6,7 +6,7 @@ def area(a, h):
                 h (int) : Высота треугольника с стороне a (a (int))
         Возвращаемое значение:
                 a * h / 2
-    ''''
+    '''
     return a * h / 2
 
 def perimeter(a, b, c):
